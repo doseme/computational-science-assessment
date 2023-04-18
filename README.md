@@ -27,4 +27,4 @@ A starting point cpanfile is provided. You do not need to use all of the include
 
 While the PFIM library is written for R and not perl, it provides a handy reference of pharmacokinetic terms, concept and formulae in Chapter 1
 
-[Duboi, A, Bertrand, J, and Mentre, F. (2014) _PFIM 4.0 Library of Model._ PFIM Group. `http://www.pfim.biostat.fr/PFIM_PKPD_Library4.0.pdf`](http://www.pfim.biostat.fr/PFIM_PKPD_Library4.0.pdf)
+[Duboi, A, Bertrand, J, and Mentre, F. (2014) _PFIM 4.0 Library of Model._ PFIM Group. `http://www.pfim.biostat.fr/pfim/download/PFIM_PKPD_Library4.0.pdf`](http://www.pfim.biostat.fr/pfim/download/PFIM_PKPD_Library4.0.pdf)
